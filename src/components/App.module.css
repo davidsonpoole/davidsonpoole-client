@@ -1,0 +1,17 @@
+.postbg {
+    padding: 1%;
+    margin: 1%;
+    background-color: white;
+    border-radius: 1%;
+    border: 2px rgb(228, 228, 228);
+    border-style: solid;
+}
+
+.component {
+    padding: 5%;
+}
+
+.heading {
+    margin-top: 1%;
+    width: fit-content;
+}

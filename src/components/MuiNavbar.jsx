@@ -17,7 +17,7 @@ export const MuiNavbar = () => {
                 </Typography>
             </Link>
             <Stack direction='row' spacing={2} >
-                <Button color='inherit'><Link to='blog' style={linkStyle} >Blog</Link></Button>
+                <Button color='inherit'><Link to='/' style={linkStyle} >Blog</Link></Button>
                 <Button color='inherit'><Link to='aboutme' style={linkStyle} >About Me</Link></Button>
                 <Button color='inherit'><Link to='contact' style={linkStyle} >Contact</Link></Button>
             </Stack>
